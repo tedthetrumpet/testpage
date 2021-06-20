@@ -5,7 +5,7 @@
 
 test check one two three some text here
 
-[link](https://tedthetrumpet.github.io/testpage/page2)
+[Link to page 2](https://tedthetrumpet.github.io/testpage/page2)
 
 **Complexity:** recognising and dealing with the provisiional nature of knowledge, the application of knowledge in practice, conceptual complexity, and the complexity of learning process.
 
