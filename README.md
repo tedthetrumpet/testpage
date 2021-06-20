@@ -12,5 +12,5 @@ test check one two three some text here
 
 ## References is H2
 
-‘Polifonia’ Working Group on Artistic Research in Higher Music Education (2015) “Perspectives on 2nd Cycle Programmes In Higher Music Education” Association Européenne des Conservatoires, Académies de Musique et Musikhochschulen (AEC) https://www.aec-music.eu/publications/perspectives-on-2nd-cycle-programmes-in-higher-music-education
+‘Polifonia’ Working Group on Artistic Research in Higher Music Education (2015) “Perspectives on 2nd Cycle Programmes In Higher Music Education” Association Européenne des Conservatoires, Académies de Musique et Musikhochschulen (AEC) <https://www.aec-music.eu/publications/perspectives-on-2nd-cycle-programmes-in-higher-music-education>
 
