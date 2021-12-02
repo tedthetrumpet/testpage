@@ -8,7 +8,7 @@
 
 * push changes in github desktop
 * check files are there [https://github.com/tedthetrumpet/testpage/tree/master/samples]()
-* use instructions [https://github.com/dktr0/estuary/wiki]() to create resources.json, or as below:
+* use instructions [https://github.com/dktr0/estuary/wiki]() to create `resources.json`, or as below:
 * go back up into the samples directory
 * `cd ..`
 * run the script like this: `/Users/jsimon/Dropbox/github_repositories/estuarystuff/generateAudioResources.sh . > resources.json`
