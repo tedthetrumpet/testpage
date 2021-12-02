@@ -1,3 +1,24 @@
+# reminder of how to add samples in Estuary
+
+* create subfolder on github pages site
+* copy aiff files in then convert to .wav
+	* cd to directory, then
+
+	* `for f in *.aiff; do ffmpeg -i "${f}" -vn -c:a pcm_s16le  -ar 44100  "${f%.*}.wav" ; done` 
+
+* push changes in github desktop
+* check files are there [https://github.com/tedthetrumpet/testpage/tree/master/samples]()
+* use instructions [https://github.com/dktr0/estuary/wiki]() to create resources.json, or as below:
+* go back up into the samples directory
+* `cd ..`
+* run the script like this: `/Users/jsimon/Dropbox/github_repositories/estuarystuff/generateAudioResources.sh . > resources.json`
+* check the new local `resources.json` file then push using github desktop
+* in Estuary terminal `!showresources`
+	returns `0: reslist "samples/resources.json"`
+* do `!reslist "https://tedthetrumpet.github.io/testpage/samples/resources.json"`
+* to revert to default samples `!defaultresources`
+
+
 # Maintaining and enhancing excellence in H1
 
 > ‘a quotation’
