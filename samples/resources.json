@@ -1,4 +1,8 @@
 [
+{ "url":"longwhistles/41 dwhbis.wav","type":"audio","bank":"longwhistles","n":0},
+{ "url":"longwhistles/42 galtobis.wav","type":"audio","bank":"longwhistles","n":1},
+{ "url":"longwhistles/43 bbwhbis.wav","type":"audio","bank":"longwhistles","n":2},
+{ "url":"longwhistles/44 sopbis.wav","type":"audio","bank":"longwhistles","n":3},
 { "url":"naga/monotonous.wav","type":"audio","bank":"naga","n":0},
 { "url":"perkutut/pk01.wav","type":"audio","bank":"perkutut","n":0},
 { "url":"perkutut/pk02.wav","type":"audio","bank":"perkutut","n":1},
