@@ -16,5 +16,5 @@
 * check the new local `resources.json` file then push using github desktop
 * in Estuary terminal `!showresources`
 	returns `0: reslist "samples/resources.json"`
-* do `!reslist "https://tedthetrumpet.github.io/testpage/samples/resources.json"`
+* do `!reslist "https://tedthetrumpet.github.io/testpage/samples/resources.json"` (or `!reslist "https://tedthetrumpet.github.io/testpage/nmsamples/resources.json"` for the main stable Naga Mas bank)
 * to revert to default samples `!defaultresources`
