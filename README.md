@@ -1,4 +1,4 @@
-# reminder of how to add samples in Estuary
+# reminder to self of how to add samples in Estuary
 
 * create local subfolder for github pages site
 * make sure there are no spaces in the file names
