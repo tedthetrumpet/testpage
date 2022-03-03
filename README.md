@@ -1,6 +1,7 @@
 # reminder of how to add samples in Estuary
 
 * create local subfolder for github pages site
+* make sure there are no spaces in the file names
 * copy aiff files in then convert to .wav
 	* cd to directory, then
 
