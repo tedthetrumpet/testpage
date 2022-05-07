@@ -89,5 +89,13 @@
 { "url":"slenthem/04slenthemfixP4short.wav","type":"audio","bank":"slenthem","n":4},
 { "url":"slenthem/05slenthemfixP5short.wav","type":"audio","bank":"slenthem","n":5},
 { "url":"slenthem/06slenthemfixP6short.wav","type":"audio","bank":"slenthem","n":6},
-{ "url":"slenthem/07slenthemfixP7short.wav","type":"audio","bank":"slenthem","n":7}
+{ "url":"slenthem/07slenthemfixP7short.wav","type":"audio","bank":"slenthem","n":7},
+{ "url":"ssaron/00L6copy.wav","type":"audio","bank":"ssaron","n":0},
+{ "url":"ssaron/01copy.wav","type":"audio","bank":"ssaron","n":1},
+{ "url":"ssaron/02copy.wav","type":"audio","bank":"ssaron","n":2},
+{ "url":"ssaron/03copy.wav","type":"audio","bank":"ssaron","n":3},
+{ "url":"ssaron/04copy.wav","type":"audio","bank":"ssaron","n":4},
+{ "url":"ssaron/05copycopy.wav","type":"audio","bank":"ssaron","n":5},
+{ "url":"ssaron/06copy.wav","type":"audio","bank":"ssaron","n":6},
+{ "url":"ssaron/07H1copy.wav","type":"audio","bank":"ssaron","n":7}
 ]
