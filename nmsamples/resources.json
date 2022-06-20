@@ -150,5 +150,10 @@
 { "url":"sslenthem/04silence.wav","type":"audio","bank":"sslenthem","n":4},
 { "url":"sslenthem/05Sl5slenthem.wav","type":"audio","bank":"sslenthem","n":5},
 { "url":"sslenthem/06Sl6slenthem.wav","type":"audio","bank":"sslenthem","n":6},
-{ "url":"sslenthem/07Sl1hslenthem.wav","type":"audio","bank":"sslenthem","n":7}
+{ "url":"sslenthem/07Sl1hslenthem.wav","type":"audio","bank":"sslenthem","n":7},
+{ "url":"suling/01suling.wav","type":"audio","bank":"suling","n":0},
+{ "url":"suling/02suling.wav","type":"audio","bank":"suling","n":1},
+{ "url":"suling/03suling.wav","type":"audio","bank":"suling","n":2},
+{ "url":"suling/04suling.wav","type":"audio","bank":"suling","n":3},
+{ "url":"suling/05suling.wav","type":"audio","bank":"suling","n":4}
 ]
