@@ -8,7 +8,7 @@
 	* `for f in *.aiff; do ffmpeg -i "${f}" -vn -c:a pcm_s16le  -ar 44100  "${f%.*}.wav" ; done` 
 
 * push changes in github desktop
-* check files are there [https://github.com/tedthetrumpet/testpage/tree/master/samples](https://github.com/tidalcycles/Dirt-Samples) (or [https://github.com/tedthetrumpet/testpage/tree/master/nmsamples](https://github.com/tedthetrumpet/testpage/tree/master/nmsamples) for the main stable Naga Mas bank)
+* check files are there [https://github.com/tedthetrumpet/testpage/tree/master/samples](https://github.com/tedthetrumpet/testpage/tree/master/samples]) (or [https://github.com/tedthetrumpet/testpage/tree/master/nmsamples](https://github.com/tedthetrumpet/testpage/tree/master/nmsamples) for the main stable Naga Mas bank)
 * use instructions [https://github.com/dktr0/estuary/wiki](https://github.com/tidalcycles/Dirt-Samples) to create `resources.json`, or as below:
 * go back up into the samples directory
 * `cd ..`
