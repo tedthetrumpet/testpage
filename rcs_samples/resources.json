@@ -21,5 +21,13 @@
 { "url":"kt/Traffic1.wav","type":"audio","bank":"kt","n":5},
 { "url":"kt/Traffic2.wav","type":"audio","bank":"kt","n":6},
 { "url":"kt/Traffic3.wav","type":"audio","bank":"kt","n":7},
-{ "url":"kt/Uwu1.wav","type":"audio","bank":"kt","n":8}
+{ "url":"kt/Uwu1.wav","type":"audio","bank":"kt","n":8},
+{ "url":"nwj/Clap_1.WAV","type":"audio","bank":"nwj","n":0},
+{ "url":"nwj/guitar_A1_2b.L.wav","type":"audio","bank":"nwj","n":1},
+{ "url":"nwj/hairdryer_1.L.wav","type":"audio","bank":"nwj","n":2},
+{ "url":"nwj/high guitar_1.L.wav","type":"audio","bank":"nwj","n":3},
+{ "url":"nwj/low_piano_note_1.L.wav","type":"audio","bank":"nwj","n":4},
+{ "url":"nwj/overdone_piano_1.L.wav","type":"audio","bank":"nwj","n":5},
+{ "url":"nwj/piano_chord_1.L.wav","type":"audio","bank":"nwj","n":6},
+{ "url":"nwj/piano_dissonance_1.L.wav","type":"audio","bank":"nwj","n":7}
 ]
