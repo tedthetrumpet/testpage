@@ -22,7 +22,28 @@
 "demung/04soh_dmp4short.wav",
 "demung/05soh_dmp5short.wav",
 "demung/06soh_dmp6short.wav",
-"demung/07soh_dmp7short.wav"]
+"demung/07soh_dmp7short.wav"],
+"kendhang":
+["kendhang/001fa-dun_louder.wav",
+"kendhang/002fa-dun2_louder.wav",
+"kendhang/003k-tong_louder.wav",
+"kendhang/004k-thlang_louder.wav",
+"kendhang/005k-dun_louder.wav",
+"kendhang/006k-dut_louder.wav",
+"kendhang/007k-ket_louder.wav",
+"kendhang/008k-tak_louder.wav",
+"kendhang/009c-thlung_louder.wav",
+"kendhang/010c-thung_louder.wav",
+"kendhang/011c-tong_louder.wav",
+"kendhang/013c-dut_louder.wav",
+"kendhang/014c-lang_louder.wav",
+"kendhang/015c-lung_louder.wav",
+"kendhang/016c-tak_louder.wav",
+"kendhang/017c-dun_louder.wav",
+"kendhang/018c-dang_louder.wav",
+"kendhang/019k-lung_louder.wav",
+"kendhang/020k-thung_louder.wav"]
+
 }
 
 
