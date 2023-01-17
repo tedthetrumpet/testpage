@@ -142,10 +142,10 @@
 "atomtones/98-Californium.wav",
 "atomtones/99-Einsteinium.wav"],
 "bisbig":
-["atomtones/41dwhbis.wav",
-"atomtones/42galtobis.wav",
-"atomtones/43bbwhbis.wav",
-"atomtones/44sopbis.wav"]
+["bisbig/41dwhbis.wav",
+"bisbig/42galtobis.wav",
+"bisbig/43bbwhbis.wav",
+"bisbig/44sopbis.wav"]
 }
 
 
