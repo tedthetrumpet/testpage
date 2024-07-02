@@ -1,1 +1,3 @@
-This is a test of a second page for the site.
+gado test
+
+![Image](assets/Garden_trim.jpg)
