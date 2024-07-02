@@ -2,7 +2,11 @@
 title: this_is_a_test
 description: just a test site to play with 
 
+## remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 
-remote_theme: pages-themes/architect@v0.2.0
+
+
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
